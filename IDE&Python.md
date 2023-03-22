@@ -4,7 +4,7 @@ marp: true
 
 # 2023 메이크@정보보안 멘토링
 
-## IDE 및 Python
+## IDE & Python
 
 ---
 
@@ -23,7 +23,7 @@ IDE는 코드 작성, 디버깅, 테스트 등의 개발 과정에서 필요한 
 
 <style scoped>
 section {
-  font-size: 1.5rem;
+  font-size: 1.38rem;
 }
 </style>
 
@@ -91,7 +91,10 @@ Python에서 반복문은 `for`와 `while` 두 가지 방법으로 구현할 수
 for i in range(5):
     print(i)
 ```
-
+```python
+while True:
+    print("while loop!")
+```
 ---
 
 ## 함수
