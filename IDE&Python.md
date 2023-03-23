@@ -30,7 +30,6 @@ section {
 ### 1. Visual Studio Code
 
 경량형 오픈소스 코드 편집기, 다양한 언어 지원, 디버깅, Git 통합 등 기능 제공
-진짜 편함
 
 ### 2. IntelliJ IDEA
 
