@@ -91,10 +91,12 @@ Python에서 반복문은 `for`와 `while` 두 가지 방법으로 구현할 수
 for i in range(5):
     print(i)
 ```
+
 ```python
 while True:
     print("while loop!")
 ```
+
 ---
 
 ## 함수
@@ -140,4 +142,4 @@ print(fruits)
 
 ---
 
-# 백준 가입하기
+# 프로그래머스 가입하기
