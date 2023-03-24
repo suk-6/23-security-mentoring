@@ -30,7 +30,9 @@ size: 16:9
 
 ---
 
-## GPT (Generative Pre-trained Transformer)
+# GPT (Generative Pre-trained Transformer)
+
+---
 
 ### 트랜스포머 (Transformer)
 - 인코더와 디코더로 구성된 신경망 구조
@@ -49,7 +51,9 @@ size: 16:9
 
 ---
 
-## ChatGPT
+# ChatGPT
+
+---
 
 ### 개요
 - GPT 모델을 기반으로 한 대화형 인공지능
