@@ -7,7 +7,8 @@ size: 16:9
 
 # 2023 메이크@정보보안 멘토링
 
-## AI & GPT
+AI & GPT
+Made by [suk.kr](https://suk.kr)
 
 ---
 
@@ -99,3 +100,5 @@ section {
 ---
 
 # ChatGPT 실습
+
+## [ai.com](https://ai.com)
